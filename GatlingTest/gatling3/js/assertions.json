@@ -1,0 +1,10 @@
+{
+  "simulation": "video.GatlingMilimili",
+  "simulationId": "gatlingmilimili",
+  "start": 1594484010766,
+  "description": "",
+  "scenarios": ["Testing Video GetFiles Request"],
+  "assertions": [
+
+  ]
+}
